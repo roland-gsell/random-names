@@ -1,0 +1,13 @@
+{
+    "mittelreich": {
+        "vorname_weiblich": [
+            "Adaque", "Aldare", "Alda", "Alena", "Alinde", "Alruna", "Alvide", "Arba", "Belona", "Bernika"
+        ],
+        "vorname_maennlich": [
+            "Adran", "Alrik", "Angrond", "Anjun", "Answin", "Ardor", "Ardo", "Baltram,"
+        ],
+        "nachname": [
+            "Adersin", "Aldebruck", "Algerein", "Alfaran", "Alff", "Angbarer", "Anjuhal", "Arberdan", "Arres", "Arsteener", "Babek", "Bachental"
+        ]
+    }
+}
